@@ -28,7 +28,7 @@ I struggled a bit to properly get Chart.js working inside my Laravel application
 ---
 ## Usage 
 
-1. Place the RevenueChart.vue into your resources/assets/js/components folder in your Laravel application.
+1. Place the ExampleChart.vue into your resources/assets/js/components folder in your Laravel application.
 
 2. Make sure it is registered in your resources/assets/js/app.js file.
 
